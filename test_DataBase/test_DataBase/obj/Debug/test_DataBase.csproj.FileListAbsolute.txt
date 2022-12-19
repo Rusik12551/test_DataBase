@@ -1,0 +1,192 @@
+C:\Users\Rusik\source\repos\test_DataBase\test_DataBase\bin\Debug\test_DataBase.exe.config
+C:\Users\Rusik\source\repos\test_DataBase\test_DataBase\bin\Debug\test_DataBase.exe
+C:\Users\Rusik\source\repos\test_DataBase\test_DataBase\bin\Debug\test_DataBase.pdb
+C:\Users\Rusik\source\repos\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.AssemblyReference.cache
+C:\Users\Rusik\source\repos\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form1.resources
+C:\Users\Rusik\source\repos\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Properties.Resources.resources
+C:\Users\Rusik\source\repos\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.GenerateResource.cache
+C:\Users\Rusik\source\repos\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Rusik\source\repos\test_DataBase\test_DataBase\obj\Debug\test_DataBase.exe
+C:\Users\Rusik\source\repos\test_DataBase\test_DataBase\obj\Debug\test_DataBase.pdb
+C:\Users\pr-7\Downloads\test_DataBase\test_DataBase\bin\Debug\test_DataBase.exe.config
+C:\Users\pr-7\Downloads\test_DataBase\test_DataBase\obj\Debug\test_DataBase.exe
+C:\Users\pr-7\Downloads\test_DataBase\test_DataBase\obj\Debug\test_DataBase.pdb
+C:\Users\pr-7\Downloads\test_DataBase\test_DataBase\bin\Debug\test_DataBase.exe
+C:\Users\pr-7\Downloads\test_DataBase\test_DataBase\bin\Debug\test_DataBase.pdb
+C:\Users\pr-7\Downloads\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csprojResolveAssemblyReference.cache
+C:\Users\pr-7\Downloads\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form1.resources
+C:\Users\pr-7\Downloads\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Properties.Resources.resources
+C:\Users\pr-7\Downloads\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.GenerateResource.Cache
+C:\Users\pr-7\Downloads\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form2.resources
+C:\Users\pr-7\Downloads\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form3.resources
+C:\Users\pr-7\Downloads\Test\test_DataBase\test_DataBase\bin\Debug\test_DataBase.exe.config
+C:\Users\pr-7\Downloads\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.exe
+C:\Users\pr-7\Downloads\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.pdb
+C:\Users\pr-7\Downloads\Test\test_DataBase\test_DataBase\bin\Debug\test_DataBase.exe
+C:\Users\pr-7\Downloads\Test\test_DataBase\test_DataBase\bin\Debug\test_DataBase.pdb
+C:\Users\pr-7\Downloads\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csprojResolveAssemblyReference.cache
+C:\Users\pr-7\Downloads\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form1.resources
+C:\Users\pr-7\Downloads\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form2.resources
+C:\Users\pr-7\Downloads\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form3.resources
+C:\Users\pr-7\Downloads\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Properties.Resources.resources
+C:\Users\pr-7\Downloads\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.GenerateResource.Cache
+C:\Users\pr-7\Documents\Test\test_DataBase\test_DataBase\bin\Debug\test_DataBase.exe.config
+C:\Users\pr-7\Documents\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.exe
+C:\Users\pr-7\Documents\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.pdb
+C:\Users\pr-7\Documents\Test\test_DataBase\test_DataBase\bin\Debug\test_DataBase.exe
+C:\Users\pr-7\Documents\Test\test_DataBase\test_DataBase\bin\Debug\test_DataBase.pdb
+C:\Users\pr-7\Documents\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form2.resources
+C:\Users\pr-7\Documents\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form4.resources
+C:\Users\pr-7\Documents\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form5.resources
+C:\Users\pr-7\Documents\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Properties.Resources.resources
+C:\Users\pr-7\Documents\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.GenerateResource.Cache
+C:\Users\pr-7\Documents\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form6.resources
+C:\Users\user\Desktop\Test\test_DataBase\test_DataBase\bin\Debug\test_DataBase.exe.config
+C:\Users\user\Desktop\Test\test_DataBase\test_DataBase\bin\Debug\test_DataBase.exe
+C:\Users\user\Desktop\Test\test_DataBase\test_DataBase\bin\Debug\test_DataBase.pdb
+C:\Users\user\Desktop\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form2.resources
+C:\Users\user\Desktop\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form4.resources
+C:\Users\user\Desktop\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form5.resources
+C:\Users\user\Desktop\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form6.resources
+C:\Users\user\Desktop\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Properties.Resources.resources
+C:\Users\user\Desktop\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.exe
+C:\Users\user\Desktop\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.pdb
+C:\Users\user\Desktop\Test\test_DataBase\test_DataBase\bin\Debug\Database1.mdf
+C:\Users\user\Desktop\Test\test_DataBase\test_DataBase\bin\Debug\Database1_log.ldf
+C:\Users\user\Documents\360 гр\Test\test_DataBase\test_DataBase\bin\Debug\test_DataBase.exe.config
+C:\Users\user\Documents\360 гр\Test\test_DataBase\test_DataBase\bin\Debug\test_DataBase.exe
+C:\Users\user\Documents\360 гр\Test\test_DataBase\test_DataBase\bin\Debug\test_DataBase.pdb
+C:\Users\user\Documents\360 гр\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.AssemblyReference.cache
+C:\Users\user\Documents\360 гр\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\360 гр\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form2.resources
+C:\Users\user\Documents\360 гр\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form4.resources
+C:\Users\user\Documents\360 гр\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form5.resources
+C:\Users\user\Documents\360 гр\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form6.resources
+C:\Users\user\Documents\360 гр\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Properties.Resources.resources
+C:\Users\user\Documents\360 гр\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.GenerateResource.cache
+C:\Users\user\Documents\360 гр\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\360 гр\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.exe
+C:\Users\user\Documents\360 гр\Test\test_DataBase\test_DataBase\obj\Debug\test_DataBase.pdb
+C:\Users\user\Documents\360 гр\Test\test_DataBase\test_DataBase\bin\Debug\TestaTabl.mdf
+C:\Users\user\Documents\360 гр\Test\test_DataBase\test_DataBase\bin\Debug\TestaTabl_log.ldf
+C:\Users\Rusik\Desktop\test_DataBase\test_DataBase\bin\Debug\test_DataBase.exe.config
+C:\Users\Rusik\Desktop\test_DataBase\test_DataBase\bin\Debug\test_DataBase.exe
+C:\Users\Rusik\Desktop\test_DataBase\test_DataBase\bin\Debug\test_DataBase.pdb
+C:\Users\Rusik\Desktop\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.AssemblyReference.cache
+C:\Users\Rusik\Desktop\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form2.resources
+C:\Users\Rusik\Desktop\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form4.resources
+C:\Users\Rusik\Desktop\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form5.resources
+C:\Users\Rusik\Desktop\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form6.resources
+C:\Users\Rusik\Desktop\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Properties.Resources.resources
+C:\Users\Rusik\Desktop\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.GenerateResource.cache
+C:\Users\Rusik\Desktop\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Rusik\Desktop\test_DataBase\test_DataBase\obj\Debug\test_DataBase.exe
+C:\Users\Rusik\Desktop\test_DataBase\test_DataBase\obj\Debug\test_DataBase.pdb
+C:\Users\Rusik\Desktop\test_DataBase\test_DataBase\bin\Debug\test.mdf
+C:\Users\Rusik\Desktop\test_DataBase\test_DataBase\bin\Debug\test_log.ldf
+C:\Users\Rusik\Desktop\test_DataBase\test_DataBase\bin\Debug\Microsoft.Azure.Management.Sql.dll
+C:\Users\Rusik\Desktop\test_DataBase\test_DataBase\bin\Debug\Hyak.Common.dll
+C:\Users\Rusik\Desktop\test_DataBase\test_DataBase\bin\Debug\Microsoft.Azure.Common.dll
+C:\Users\Rusik\Desktop\test_DataBase\test_DataBase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rusik\Desktop\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.CopyComplete
+C:\Users\Rusik\Desktop\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form1.resources
+C:\Users\Rusik\Desktop\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form3.resources
+C:\Users\user\Documents\360 гр\Новый test_DataBase\test_DataBase\test_DataBase\bin\Debug\test.mdf
+C:\Users\user\Documents\360 гр\Новый test_DataBase\test_DataBase\test_DataBase\bin\Debug\test_log.ldf
+C:\Users\user\Documents\360 гр\Новый test_DataBase\test_DataBase\test_DataBase\bin\Debug\test_DataBase.exe.config
+C:\Users\user\Documents\360 гр\Новый test_DataBase\test_DataBase\test_DataBase\bin\Debug\test_DataBase.exe
+C:\Users\user\Documents\360 гр\Новый test_DataBase\test_DataBase\test_DataBase\bin\Debug\test_DataBase.pdb
+C:\Users\user\Documents\360 гр\Новый test_DataBase\test_DataBase\test_DataBase\bin\Debug\Microsoft.Azure.Management.Sql.dll
+C:\Users\user\Documents\360 гр\Новый test_DataBase\test_DataBase\test_DataBase\bin\Debug\Hyak.Common.dll
+C:\Users\user\Documents\360 гр\Новый test_DataBase\test_DataBase\test_DataBase\bin\Debug\Microsoft.Azure.Common.dll
+C:\Users\user\Documents\360 гр\Новый test_DataBase\test_DataBase\test_DataBase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Documents\360 гр\Новый test_DataBase\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.AssemblyReference.cache
+C:\Users\user\Documents\360 гр\Новый test_DataBase\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\360 гр\Новый test_DataBase\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form1.resources
+C:\Users\user\Documents\360 гр\Новый test_DataBase\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form2.resources
+C:\Users\user\Documents\360 гр\Новый test_DataBase\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form3.resources
+C:\Users\user\Documents\360 гр\Новый test_DataBase\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form4.resources
+C:\Users\user\Documents\360 гр\Новый test_DataBase\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form5.resources
+C:\Users\user\Documents\360 гр\Новый test_DataBase\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form6.resources
+C:\Users\user\Documents\360 гр\Новый test_DataBase\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Properties.Resources.resources
+C:\Users\user\Documents\360 гр\Новый test_DataBase\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.GenerateResource.cache
+C:\Users\user\Documents\360 гр\Новый test_DataBase\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\360 гр\Новый test_DataBase\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.CopyComplete
+C:\Users\user\Documents\360 гр\Новый test_DataBase\test_DataBase\test_DataBase\obj\Debug\test_DataBase.exe
+C:\Users\user\Documents\360 гр\Новый test_DataBase\test_DataBase\test_DataBase\obj\Debug\test_DataBase.pdb
+C:\Users\user\Documents\360 гр\Новый test_DataBase\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form7.resources
+C:\Users\Rusik\Documents\360\Новый test_DataBase\test_DataBase\test_DataBase\bin\Debug\test.mdf
+C:\Users\Rusik\Documents\360\Новый test_DataBase\test_DataBase\test_DataBase\bin\Debug\test_log.ldf
+C:\Users\Rusik\Documents\360\Новый test_DataBase\test_DataBase\test_DataBase\bin\Debug\test_DataBase.exe.config
+C:\Users\Rusik\Documents\360\Новый test_DataBase\test_DataBase\test_DataBase\bin\Debug\test_DataBase.exe
+C:\Users\Rusik\Documents\360\Новый test_DataBase\test_DataBase\test_DataBase\bin\Debug\test_DataBase.pdb
+C:\Users\Rusik\Documents\360\Новый test_DataBase\test_DataBase\test_DataBase\bin\Debug\Microsoft.Azure.Management.Sql.dll
+C:\Users\Rusik\Documents\360\Новый test_DataBase\test_DataBase\test_DataBase\bin\Debug\Hyak.Common.dll
+C:\Users\Rusik\Documents\360\Новый test_DataBase\test_DataBase\test_DataBase\bin\Debug\Microsoft.Azure.Common.dll
+C:\Users\Rusik\Documents\360\Новый test_DataBase\test_DataBase\test_DataBase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rusik\Documents\360\Новый test_DataBase\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.AssemblyReference.cache
+C:\Users\Rusik\Documents\360\Новый test_DataBase\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form1.resources
+C:\Users\Rusik\Documents\360\Новый test_DataBase\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form2.resources
+C:\Users\Rusik\Documents\360\Новый test_DataBase\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form3.resources
+C:\Users\Rusik\Documents\360\Новый test_DataBase\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form7.resources
+C:\Users\Rusik\Documents\360\Новый test_DataBase\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form4.resources
+C:\Users\Rusik\Documents\360\Новый test_DataBase\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form5.resources
+C:\Users\Rusik\Documents\360\Новый test_DataBase\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form6.resources
+C:\Users\Rusik\Documents\360\Новый test_DataBase\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Properties.Resources.resources
+C:\Users\Rusik\Documents\360\Новый test_DataBase\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.GenerateResource.cache
+C:\Users\Rusik\Documents\360\Новый test_DataBase\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Rusik\Documents\360\Новый test_DataBase\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.CopyComplete
+C:\Users\Rusik\Documents\360\Новый test_DataBase\test_DataBase\test_DataBase\obj\Debug\test_DataBase.exe
+C:\Users\Rusik\Documents\360\Новый test_DataBase\test_DataBase\test_DataBase\obj\Debug\test_DataBase.pdb
+C:\Users\Rusik\Desktop\360\test_DataBase\test_DataBase\bin\Debug\test.mdf
+C:\Users\Rusik\Desktop\360\test_DataBase\test_DataBase\bin\Debug\test_log.ldf
+C:\Users\Rusik\Desktop\360\test_DataBase\test_DataBase\bin\Debug\test_DataBase.exe.config
+C:\Users\Rusik\Desktop\360\test_DataBase\test_DataBase\bin\Debug\test_DataBase.exe
+C:\Users\Rusik\Desktop\360\test_DataBase\test_DataBase\bin\Debug\test_DataBase.pdb
+C:\Users\Rusik\Desktop\360\test_DataBase\test_DataBase\bin\Debug\Microsoft.Azure.Management.Sql.dll
+C:\Users\Rusik\Desktop\360\test_DataBase\test_DataBase\bin\Debug\Hyak.Common.dll
+C:\Users\Rusik\Desktop\360\test_DataBase\test_DataBase\bin\Debug\Microsoft.Azure.Common.dll
+C:\Users\Rusik\Desktop\360\test_DataBase\test_DataBase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rusik\Desktop\360\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.AssemblyReference.cache
+C:\Users\Rusik\Desktop\360\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form1.resources
+C:\Users\Rusik\Desktop\360\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form2.resources
+C:\Users\Rusik\Desktop\360\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form3.resources
+C:\Users\Rusik\Desktop\360\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form7.resources
+C:\Users\Rusik\Desktop\360\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form4.resources
+C:\Users\Rusik\Desktop\360\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form5.resources
+C:\Users\Rusik\Desktop\360\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form6.resources
+C:\Users\Rusik\Desktop\360\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Properties.Resources.resources
+C:\Users\Rusik\Desktop\360\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.GenerateResource.cache
+C:\Users\Rusik\Desktop\360\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Rusik\Desktop\360\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.CopyComplete
+C:\Users\Rusik\Desktop\360\test_DataBase\test_DataBase\obj\Debug\test_DataBase.exe
+C:\Users\Rusik\Desktop\360\test_DataBase\test_DataBase\obj\Debug\test_DataBase.pdb
+C:\Users\Rusik\Desktop\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rusik\Desktop\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form7.resources
+C:\Users\user\Desktop\222test_DataBase\test_DataBase\bin\Debug\test.mdf
+C:\Users\user\Desktop\222test_DataBase\test_DataBase\bin\Debug\test_log.ldf
+C:\Users\user\Desktop\222test_DataBase\test_DataBase\bin\Debug\test_DataBase.exe.config
+C:\Users\user\Desktop\222test_DataBase\test_DataBase\bin\Debug\test_DataBase.exe
+C:\Users\user\Desktop\222test_DataBase\test_DataBase\bin\Debug\test_DataBase.pdb
+C:\Users\user\Desktop\222test_DataBase\test_DataBase\bin\Debug\Microsoft.Azure.Management.Sql.dll
+C:\Users\user\Desktop\222test_DataBase\test_DataBase\bin\Debug\Hyak.Common.dll
+C:\Users\user\Desktop\222test_DataBase\test_DataBase\bin\Debug\Microsoft.Azure.Common.dll
+C:\Users\user\Desktop\222test_DataBase\test_DataBase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\222test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\222test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form1.resources
+C:\Users\user\Desktop\222test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form2.resources
+C:\Users\user\Desktop\222test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form3.resources
+C:\Users\user\Desktop\222test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form7.resources
+C:\Users\user\Desktop\222test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form4.resources
+C:\Users\user\Desktop\222test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form5.resources
+C:\Users\user\Desktop\222test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form6.resources
+C:\Users\user\Desktop\222test_DataBase\test_DataBase\obj\Debug\test_DataBase.Properties.Resources.resources
+C:\Users\user\Desktop\222test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.GenerateResource.cache
+C:\Users\user\Desktop\222test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\222test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.CopyComplete
+C:\Users\user\Desktop\222test_DataBase\test_DataBase\obj\Debug\test_DataBase.exe
+C:\Users\user\Desktop\222test_DataBase\test_DataBase\obj\Debug\test_DataBase.pdb
